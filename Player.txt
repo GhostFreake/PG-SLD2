@@ -1,0 +1,6 @@
+Assets/Player/player_sprite.png
+Assets/Player/jump.wav
+Assets/Player/coin.wav
+Assets/Player/death.wav
+Assets/Player/land.wav
+Assets/Player/RobotoCondensed-Bold.ttf

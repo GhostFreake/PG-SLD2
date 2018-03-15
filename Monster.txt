@@ -1,0 +1,2 @@
+Assets/Monster/Mortal.png
+Assets/Monster/Immortal.png
