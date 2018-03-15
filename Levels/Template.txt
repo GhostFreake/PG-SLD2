@@ -1,0 +1,15 @@
+player start pos x ,player start pos y
+Map location
+exit position
+Number of coins
+x x /position
+...
+Number of collision boxes
+x x x x/position
+...
+Number of monsters
+type x x /position
+...
+Number of sentrys
+x x/position
+...
